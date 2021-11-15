@@ -1,0 +1,1 @@
+java -jar ./assembler/KickAss.jar $1
